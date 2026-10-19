@@ -1,4 +1,4 @@
-## Me chamo João Claudio, Tenho 21 anos, Sou Natural do Rio Grande do Norte atualmente estou cursando o curso de TI na Universidade Federal do Rio Grande do Norte.
+## Me chamo João Claudio, Tenho 21 anos, Sou Natural do Rio Grande do Norte, Conclui o ensino médio no Instituto Federal do Rio Grande do Norte - campus João Câmara, atualmente estou cursando o curso de TI na Universidade Federal do Rio Grande do Norte.
 
 ### 🛠️ Linguagens
 <div style="display: inline_block"><br>
