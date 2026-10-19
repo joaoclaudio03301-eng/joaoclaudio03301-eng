@@ -1,4 +1,4 @@
-## Oi eu sou João Claudio, estudante de TI!
+## Oi eu sou João Claudio, Sou Natural do Rio Grande do Norte atualmente estou cursando o curso de TI na Universidade Federal do Rio Grande do Norte. Tenho  21 anos 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
