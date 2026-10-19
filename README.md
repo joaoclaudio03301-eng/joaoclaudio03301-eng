@@ -50,3 +50,8 @@
 
 <br clear="left"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoclaudio03301-eng/joaoclaudio03301-eng/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/joaoclaudio03301-eng/joaoclaudio03301-eng/output/github-contribution-grid-snake.svg">
+</picture>
+
